@@ -1,0 +1,4 @@
+1) git clone
+2) Installazione nmap
+3) Installazione utils
+4) Installazione lxml
